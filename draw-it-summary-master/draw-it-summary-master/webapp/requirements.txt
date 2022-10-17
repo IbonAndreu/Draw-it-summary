@@ -1,0 +1,14 @@
+# packaging
+pip>=9
+setuptools>=26
+twine
+wheel>=0.29
+
+# data science
+numpy
+
+#streamlit canvas
+Pillow
+streamlit
+streamlit_drawable_canvas
+streamlit-lottie

@@ -1,0 +1,31 @@
+#Requirements for API
+# packaging
+pip>=9
+setuptools>=26
+twine
+wheel>=0.29
+
+# tests/linter
+black
+coverage
+flake8
+pytest
+yapf
+
+# utilities
+six>=1.14
+joblib
+memoized-property
+
+# API
+fastapi         
+uvicorn         
+numpy
+tensorflow
+
+#others
+mlflow
+colorama
+python-multipart
+httpx
+quickdraw
